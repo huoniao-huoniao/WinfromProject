@@ -1,0 +1,10 @@
+E:\work\DeviceControlUnit.Project\Device.ControlUint.Data\bin\Debug\Device.ControlUint.Data.dll.config
+E:\work\DeviceControlUnit.Project\Device.ControlUint.Data\bin\Debug\Device.ControlUint.Data.dll
+E:\work\DeviceControlUnit.Project\Device.ControlUint.Data\bin\Debug\Device.ControlUint.Data.pdb
+E:\work\DeviceControlUnit.Project\Device.ControlUint.Data\obj\Debug\Device.ControlUint.Data.csproj.AssemblyReference.cache
+E:\work\DeviceControlUnit.Project\Device.ControlUint.Data\obj\Debug\Device.ControlUint.Data.csproj.CoreCompileInputs.cache
+E:\work\DeviceControlUnit.Project\Device.ControlUint.Data\obj\Debug\Device.C.E680553C.Up2Date
+E:\work\DeviceControlUnit.Project\Device.ControlUint.Data\obj\Debug\Device.ControlUint.Data.dll
+E:\work\DeviceControlUnit.Project\Device.ControlUint.Data\obj\Debug\Device.ControlUint.Data.pdb
+E:\work\DeviceControlUnit.Project\Device.ControlUint.Data\bin\Debug\Dapper.dll
+E:\work\DeviceControlUnit.Project\Device.ControlUint.Data\bin\Debug\Dapper.xml

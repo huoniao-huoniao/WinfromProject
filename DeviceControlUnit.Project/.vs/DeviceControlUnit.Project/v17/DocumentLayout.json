@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\work\\DeviceControlUnit.Project\\DeviceControlUnit.Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9168D279-A5D4-41C9-B67C-CF08FFC81D0A}|DeviceControlUnit.Project\\DeviceControlUnit.Project.csproj|e:\\work\\devicecontrolunit.project\\devicecontrolunit.project\\devicecontrolunit.project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9168D279-A5D4-41C9-B67C-CF08FFC81D0A}|DeviceControlUnit.Project\\DeviceControlUnit.Project.csproj|solutionrelative:devicecontrolunit.project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFEF3323-4FA2-43C7-A92A-B3E566BA425C}|Device.controlUnit.Transmission\\Device.controlUnit.Transmission.csproj|e:\\work\\devicecontrolunit.project\\devicecontrolunit.project\\device.controlunit.transmission\\devicemasterslave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFEF3323-4FA2-43C7-A92A-B3E566BA425C}|Device.controlUnit.Transmission\\Device.controlUnit.Transmission.csproj|solutionrelative:device.controlunit.transmission\\devicemasterslave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8CD219-1D79-42E8-9D08-AFEB0482FD89}|Device.ControlUint.Data\\Device.ControlUint.Data.csproj|e:\\work\\devicecontrolunit.project\\devicecontrolunit.project\\device.controluint.data\\devicecontextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8CD219-1D79-42E8-9D08-AFEB0482FD89}|Device.ControlUint.Data\\Device.ControlUint.Data.csproj|solutionrelative:device.controluint.data\\devicecontextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFEF3323-4FA2-43C7-A92A-B3E566BA425C}|Device.controlUnit.Transmission\\Device.controlUnit.Transmission.csproj|E:\\work\\DeviceControlUnit.Project\\DeviceControlUnit.Project\\device.controlunit.transmission\\devicecontrolunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFEF3323-4FA2-43C7-A92A-B3E566BA425C}|Device.controlUnit.Transmission\\Device.controlUnit.Transmission.csproj|solutionrelative:device.controlunit.transmission\\devicecontrolunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9168D279-A5D4-41C9-B67C-CF08FFC81D0A}|DeviceControlUnit.Project\\DeviceControlUnit.Project.csproj|E:\\work\\DeviceControlUnit.Project\\DeviceControlUnit.Project\\devicecontrolunit.project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9168D279-A5D4-41C9-B67C-CF08FFC81D0A}|DeviceControlUnit.Project\\DeviceControlUnit.Project.csproj|solutionrelative:devicecontrolunit.project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\work\\DeviceControlUnit.Project\\DeviceControlUnit.Project\\DeviceControlUnit.Project\\Form1.cs",
+              "RelativeDocumentMoniker": "DeviceControlUnit.Project\\Form1.cs",
+              "ToolTip": "E:\\work\\DeviceControlUnit.Project\\DeviceControlUnit.Project\\DeviceControlUnit.Project\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "DeviceControlUnit.Project\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T03:46:48.421Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeviceMasterSlave.cs",
+              "DocumentMoniker": "E:\\work\\DeviceControlUnit.Project\\DeviceControlUnit.Project\\Device.controlUnit.Transmission\\DeviceMasterSlave.cs",
+              "RelativeDocumentMoniker": "Device.controlUnit.Transmission\\DeviceMasterSlave.cs",
+              "ToolTip": "E:\\work\\DeviceControlUnit.Project\\DeviceControlUnit.Project\\Device.controlUnit.Transmission\\DeviceMasterSlave.cs",
+              "RelativeToolTip": "Device.controlUnit.Transmission\\DeviceMasterSlave.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:33:53.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeviceContextDb.cs",
+              "DocumentMoniker": "E:\\work\\DeviceControlUnit.Project\\DeviceControlUnit.Project\\Device.ControlUint.Data\\DeviceContextDb.cs",
+              "RelativeDocumentMoniker": "Device.ControlUint.Data\\DeviceContextDb.cs",
+              "ToolTip": "E:\\work\\DeviceControlUnit.Project\\DeviceControlUnit.Project\\Device.ControlUint.Data\\DeviceContextDb.cs",
+              "RelativeToolTip": "Device.ControlUint.Data\\DeviceContextDb.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAIwAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:20:35.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeviceControlUnit.cs",
+              "DocumentMoniker": "E:\\work\\DeviceControlUnit.Project\\DeviceControlUnit.Project\\Device.controlUnit.Transmission\\DeviceControlUnit.cs",
+              "RelativeDocumentMoniker": "Device.controlUnit.Transmission\\DeviceControlUnit.cs",
+              "ToolTip": "E:\\work\\DeviceControlUnit.Project\\DeviceControlUnit.Project\\Device.controlUnit.Transmission\\DeviceControlUnit.cs",
+              "RelativeToolTip": "Device.controlUnit.Transmission\\DeviceControlUnit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:40:24.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\work\\DeviceControlUnit.Project\\DeviceControlUnit.Project\\DeviceControlUnit.Project\\Form1.cs",
+              "RelativeDocumentMoniker": "DeviceControlUnit.Project\\Form1.cs",
+              "ToolTip": "E:\\work\\DeviceControlUnit.Project\\DeviceControlUnit.Project\\DeviceControlUnit.Project\\Form1.cs",
+              "RelativeToolTip": "DeviceControlUnit.Project\\Form1.cs",
+              "ViewState": "AQIAAMEBAAAAAAAAAAAywPIBAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:33:49.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

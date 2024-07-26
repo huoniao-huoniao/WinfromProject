@@ -1,0 +1,196 @@
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Config.mdb
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\DeviceControlUnit.Project.exe.config
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\DeviceControlUnit.Project.exe
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\DeviceControlUnit.Project.pdb
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\ReaLTaiizor.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\ReaLTaiizor.xml
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.csproj.AssemblyReference.cache
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.Properties.Resources.resources
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.csproj.GenerateResource.cache
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.csproj.CoreCompileInputs.cache
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.exe
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.pdb
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Device.ControlUint.Data.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Device.ControlUint.Data.pdb
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Device.ControlUint.Data.dll.config
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceCo.8180A06E.Up2Date
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Dapper.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Dapper.xml
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.WinForms.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.Wpf.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.pdb
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.xml
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.WinForms.pdb
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.WinForms.xml
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.Wpf.pdb
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.Wpf.xml
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Device.controlUnit.Transmission.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\NModbus4.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Device.controlUnit.Transmission.pdb
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\NModbus4.xml
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\PrintClient.DialogFastReportDesign.resources
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\EnvDTE.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\stdole.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Microsoft.MSXML.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\EnvDTE.xml
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\S7.Net.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Buffers.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Memory.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Numerics.Vectors.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\S7.Net.xml
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Buffers.xml
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Memory.xml
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Numerics.Vectors.xml
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.Form1.resources
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.MainForm.resources
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Config.mdb
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\DeviceControlUnit.Project.exe.config
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\DeviceControlUnit.Project.exe
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\DeviceControlUnit.Project.pdb
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Device.ControlUint.Data.dll
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Device.controlUnit.Transmission.dll
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.dll
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.WinForms.dll
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.Wpf.dll
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\ReaLTaiizor.dll
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\S7.Net.dll
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Buffers.dll
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Memory.dll
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Numerics.Vectors.dll
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Dapper.dll
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\NModbus4.dll
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\EnvDTE.dll
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\stdole.dll
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Microsoft.MSXML.dll
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Device.ControlUint.Data.pdb
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Device.ControlUint.Data.dll.config
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Device.controlUnit.Transmission.pdb
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.pdb
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.xml
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.WinForms.pdb
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.WinForms.xml
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.Wpf.pdb
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.Wpf.xml
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\ReaLTaiizor.xml
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\S7.Net.xml
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Buffers.xml
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Memory.xml
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Numerics.Vectors.xml
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Dapper.xml
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\NModbus4.xml
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.csproj.AssemblyReference.cache
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\PrintClient.DialogFastReportDesign.resources
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.Form1.resources
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.MainForm.resources
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.Properties.Resources.resources
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.csproj.GenerateResource.cache
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.csproj.CoreCompileInputs.cache
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.csproj.CopyComplete
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.exe
+F:\Users\xuanze322\Documents\WeChat Files\wxid_d5iigcnmtglj22\FileStorage\File\2024-07\DeviceControlUnit.Project(1)\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.pdb
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.csproj.AssemblyReference.cache
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\PrintClient.DialogFastReportDesign.resources
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.Form1.resources
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.Properties.Resources.resources
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.csproj.GenerateResource.cache
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.csproj.CoreCompileInputs.cache
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.exe
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.pdb
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\DeviceControlUnit.Project.exe.config
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\DeviceControlUnit.Project.exe
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\DeviceControlUnit.Project.pdb
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Device.ControlUint.Data.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Device.controlUnit.Transmission.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.WinForms.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.Wpf.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\ReaLTaiizor.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\S7.Net.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Buffers.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Memory.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Numerics.Vectors.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Dapper.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\NModbus4.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\EnvDTE.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\stdole.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Microsoft.MSXML.dll
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Device.ControlUint.Data.pdb
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Device.ControlUint.Data.dll.config
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Device.controlUnit.Transmission.pdb
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.pdb
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.xml
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.WinForms.pdb
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.WinForms.xml
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.Wpf.pdb
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.Wpf.xml
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\ReaLTaiizor.xml
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\S7.Net.xml
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Buffers.xml
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Memory.xml
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Numerics.Vectors.xml
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Dapper.xml
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\NModbus4.xml
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\EnvDTE.xml
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceCo.8180A06E.Up2Date
+E:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Config.mdb
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Config.mdb
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\DeviceControlUnit.Project.exe.config
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\DeviceControlUnit.Project.exe
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\DeviceControlUnit.Project.pdb
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Device.ControlUint.Data.dll
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Device.controlUnit.Transmission.dll
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.dll
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.WinForms.dll
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.Wpf.dll
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\ReaLTaiizor.dll
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\S7.Net.dll
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Buffers.dll
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Memory.dll
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Numerics.Vectors.dll
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Dapper.dll
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\NModbus4.dll
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Device.ControlUint.Data.pdb
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Device.ControlUint.Data.dll.config
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Device.controlUnit.Transmission.pdb
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.pdb
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.xml
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.WinForms.pdb
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.WinForms.xml
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.Wpf.pdb
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\LiveCharts.Wpf.xml
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\ReaLTaiizor.xml
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\S7.Net.xml
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Buffers.xml
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Memory.xml
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Numerics.Vectors.xml
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\Dapper.xml
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\bin\Debug\NModbus4.xml
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.csproj.AssemblyReference.cache
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\PrintClient.DialogFastReportDesign.resources
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.Form1.resources
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.Properties.Resources.resources
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.csproj.GenerateResource.cache
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.csproj.CoreCompileInputs.cache
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.csproj.CopyComplete
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.exe
+C:\work\DeviceControlUnit.Project\DeviceControlUnit.Project\DeviceControlUnit.Project\obj\Debug\DeviceControlUnit.Project.pdb
